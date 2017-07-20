@@ -31,7 +31,7 @@ class ViewController: UIViewController {
         print("jaer")
     }
     
-    func taber() {}
+    func taber() {print("ok")}
 
 }
 
