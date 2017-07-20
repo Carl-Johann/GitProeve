@@ -22,18 +22,14 @@ class ViewController: UIViewController {
 
     
     func lort() {
-    
+        print("nej")
     }
     
     
     
     func tardo() {
-    
-    
+        print("jaer")
     }
-    
-    
-    
     
     func taber() {}
 
