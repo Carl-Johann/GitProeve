@@ -33,6 +33,7 @@ class ViewController: UIViewController {
     
     }
     
+    func twoDeviceFunc() {}
     
     func branch1func() {}
     
