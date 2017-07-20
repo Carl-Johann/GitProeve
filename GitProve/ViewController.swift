@@ -33,6 +33,8 @@ class ViewController: UIViewController {
     
     }
     
+    func bookFunc() {}
+    
     func tardo() {
         print("jaer")
     }
