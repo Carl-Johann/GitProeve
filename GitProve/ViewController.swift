@@ -25,7 +25,15 @@ class ViewController: UIViewController {
         print("nej")
     }
     
+    func fuck() {
     
+    }
+    
+    func hej() {
+    
+    }
+    
+    func bookFunc() {}
     
     func tardo() {
         print("jaer")
