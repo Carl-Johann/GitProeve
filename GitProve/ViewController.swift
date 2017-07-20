@@ -33,10 +33,14 @@ class ViewController: UIViewController {
     
     }
     
-    
+    func oneTwoThree() {}
     
     
     func bookFunc() {print("")}
+    
+    func bookFuncf() {}
+    
+    func lortt() { print("Lavet på 2 branch") }
     
     func tardo() {
         print("jaer")
