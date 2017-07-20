@@ -38,6 +38,8 @@ class ViewController: UIViewController {
     
     func bookFunc() {print("")}
     
+    func bookFuncf() {}
+    
     func tardo() {
         print("jaer")
     }
