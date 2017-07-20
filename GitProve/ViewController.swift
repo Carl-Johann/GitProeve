@@ -29,6 +29,9 @@ class ViewController: UIViewController {
     
     }
     
+    func hej() {
+    
+    }
     
     func tardo() {
         print("jaer")
