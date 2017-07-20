@@ -25,6 +25,9 @@ class ViewController: UIViewController {
         print("nej")
     }
     
+    func fuck() {
+    
+    }
     
     
     func tardo() {
