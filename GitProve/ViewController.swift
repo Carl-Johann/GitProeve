@@ -20,6 +20,22 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    
+    func lort() {
+    
+    }
+    
+    
+    
+    func tardo() {
+    
+    
+    }
+    
+    
+    
+    
+    func taber() {}
 
 }
 
