@@ -40,6 +40,8 @@ class ViewController: UIViewController {
     
     func bookFuncf() {}
     
+    func lort() { print("Lavet på 2 branch") }
+    
     func tardo() {
         print("jaer")
     }
